@@ -2,6 +2,9 @@
 
 This Python-based package provides an implementation of the **Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)**. It is designed as a command-line application that evaluates multiple options against several criteria, incorporates user-defined weights and impacts, and produces a relative performance score along with a final ranking for each option.
 
+[Click Here](https://topsis-website.vercel.app/) for a live demo.
+[Click Here](https://pypi.org/project/topsis-tavish-102303246/) for the PyPI package.
+
 ## Installation
 
 Install the package using `pip` as shown below:
