@@ -6,7 +6,7 @@ This Python-based package provides an implementation of the **Technique for Orde
 
 [Click Here](https://pypi.org/project/topsis-tavish-102303246/) for the PyPI package.
 
-[Click Here](https://github.com/tavishsood/topsis-website) for Web Service's Source Code
+[Click Here](https://github.com/tavishsood/topsis_website) for Web Service's Source Code
 
 ## Installation
 
